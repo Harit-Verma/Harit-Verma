@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harit Verma</h1>
 <h3 align="center">An Aspiring Frontend Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AeniParmar&label=Profile%20views&color=0e75b6&style=flat" alt="AeniParmar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harit-Verma&label=Profile%20views&color=0e75b6&style=flat" alt="Harit-Verma" /> </p>
 
 - 🔭 I’m currently working on **Web Development**
 
@@ -23,6 +23,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="50" height="50"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="50" height="50"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AeniParmar&show_icons=true&locale=en&layout=compact" alt="AeniParmar"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AeniParmar&show_icons=true&locale=en" alt="AeniParmar" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AeniParmar&" alt="AeniParmar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harit-Verma&show_icons=true&locale=en&layout=compact" alt="Harit-Verma"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harit-Verma&show_icons=true&locale=en" alt="Harit-Verma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harit-Verma&" alt="Harit-Verma" /></p>
